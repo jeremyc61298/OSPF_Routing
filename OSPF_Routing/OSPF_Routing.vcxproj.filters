@@ -19,4 +19,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ospf.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ospf.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ospf.ans">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
